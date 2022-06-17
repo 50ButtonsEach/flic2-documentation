@@ -32,3 +32,6 @@
 
 * [fliclib](https://github.com/50ButtonsEach/fliclib-linux-hci)
 
+## Useful Links
+
+* [Flic Hub SDK](https://hubsdk.flic.io)
