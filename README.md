@@ -32,6 +32,10 @@
 
 * [fliclib](https://github.com/50ButtonsEach/fliclib-linux-hci)
 
+#### Embedded devices
+
+* [flic2lib-c-module](https://github.com/50ButtonsEach/flic2lib-c-module)
+
 ## Useful Links
 
 * [Flic Hub SDK](https://hubsdk.flic.io)
