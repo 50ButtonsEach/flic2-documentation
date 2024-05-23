@@ -32,7 +32,7 @@
 
 * [fliclib](https://github.com/50ButtonsEach/fliclib-linux-hci)
 
-#### Embedded devices
+### Embedded devices
 
 * [flic2lib-c-module](https://github.com/50ButtonsEach/flic2lib-c-module)
 
