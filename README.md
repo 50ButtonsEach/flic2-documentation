@@ -8,6 +8,10 @@
 
 	Learn how the open Flic 2 protocol works and how to implement it.
 
+* [Flic Duo Protocol Specification](https://github.com/50ButtonsEach/flic2-documentation/wiki/Flic-Duo-Protocol-Specification)
+
+	The extension of the Flic 2 protocol to support the features of Flic Duo.
+
 * [Technical Overview and Terminology](https://github.com/50ButtonsEach/flic2-documentation/wiki/Technical-Overview-and-Terminology)
 
 	An overview of how Flic 2 and its libraries works.
