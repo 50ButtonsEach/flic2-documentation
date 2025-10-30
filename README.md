@@ -2,7 +2,7 @@
 
 # Flic 2 Developer Assets
 
-## Flic 2 Protocol Specification
+## Flic 2 and Flic Duo Protocol Specification
 
 * [Flic 2 Protocol Specification](https://github.com/50ButtonsEach/flic2-documentation/wiki/Flic-2-Protocol-Specification)
 
@@ -23,7 +23,7 @@
 * [flic2lib](https://github.com/50ButtonsEach/flic2lib-ios)
 * [Sample project](https://github.com/50ButtonsEach/flic2lib-ios-sample)
 
-### Android
+### Android (also supports Flic Duo)
 
 * [flic2lib](https://github.com/50ButtonsEach/flic2lib-android)
 * [Sample project](https://github.com/50ButtonsEach/flic2lib-android-sample)
