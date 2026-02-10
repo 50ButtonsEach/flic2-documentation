@@ -1,6 +1,6 @@
 ![Flic Logo Black](https://user-images.githubusercontent.com/2717016/70526105-1bbaa200-1b49-11ea-9aa0-49e7959300c3.png)
 
-# Flic 2 Developer Assets
+# Flic Developer Assets
 
 ## Flic 2 and Flic Duo Protocol Specification
 
@@ -16,14 +16,14 @@
 
 	An overview of how Flic 2 and its libraries works.
 
-## Flic 2 Libraries
+## Flic Libraries
 
-### iOS
+### iOS (Flic 2, Flic Duo)
 
 * [flic2lib](https://github.com/50ButtonsEach/flic2lib-ios)
 * [Sample project](https://github.com/50ButtonsEach/flic2lib-ios-sample)
 
-### Android (also supports Flic Duo)
+### Android (Flic 2, Flic Duo)
 
 * [flic2lib](https://github.com/50ButtonsEach/flic2lib-android)
 * [Sample project](https://github.com/50ButtonsEach/flic2lib-android-sample)
