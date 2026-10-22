@@ -44,3 +44,4 @@
 
 * [Flic Hub SDK](https://hubsdk.flic.io)
 * [Flic Cloud Buttons Documentation](https://github.com/50ButtonsEach/flic-cloud-buttons-documentation)
+* [Fall Detection Documentation](https://github.com/50ButtonsEach/flic2-documentation/wiki/Fall-Detection-Documentation)
